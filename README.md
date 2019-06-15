@@ -1,6 +1,6 @@
 # nlp-learning
-NLP学习（主要是语义解析、智能问答方向）过程记录含资源
-搜索文献的方式：1.google   2.https://link.springer.com/（这个是NLPCC）  3.有其他的我再添加
+NLP学习（主要是语义解析、智能问答方向）过程记录含资源<br>
+搜索文献的方式：1.google   2.https://link.springer.com/（这个是NLPCC）  3.有其他的我再添加<br>
 
 ###1.BiLSTM-CRF模型做基于字的中文命名实体识别<br>
 [博客：BiLSTM-CRF模型做基于字的中文命名实体识别](https://www.cnblogs.com/Determined22/p/7238342.html)<br>

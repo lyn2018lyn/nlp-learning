@@ -23,4 +23,5 @@ reference:<br>
 [基于知识图谱的问答系统入门之—NLPCC2016KBQA数据集](https://zhuanlan.zhihu.com/p/53796189)<br>
 
 
-
+###5.bert-kbqa-NLPCC2017
+[github:bert-kbqa-NLPCC2017](https://github.com/jkszw2014/bert-kbqa-NLPCC2017/tree/master/NER_BERT-BiLSTM-CRF)

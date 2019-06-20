@@ -34,3 +34,6 @@ reference:<br>
 
 ###8.浅谈语言模型与词向量——实战<br>
 [github:浅谈语言模型与词向量——实战](https://www.jianshu.com/p/4acd3a1992b9)<br>
+
+###9.word2vec 中的数学原理详解
+[github:word2vec 中的数学原理详解](https://blog.csdn.net/itplus/article/details/37969519)

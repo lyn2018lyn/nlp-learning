@@ -26,5 +26,11 @@ reference:<br>
 ###5.bert-kbqa-NLPCC2017<br>
 [github:bert-kbqa-NLPCC2017](https://github.com/jkszw2014/bert-kbqa-NLPCC2017/tree/master/NER_BERT-BiLSTM-CRF)<br>
 
-###6.word2vec的原理及训练过程<br>
+###6.word2vec的原理及训练过程（主要介绍词嵌入概念、神经语言模型和skip-gram的训练过程）<br>
 [github:word2vec的原理及训练过程](https://new.qq.com/omn/20190405/20190405A075S3)<br>
+
+###7.浅谈语言模型（NNLM）与词向量（word2vec）——原理<br>
+[github:浅谈语言模型（NNLM）与词向量（word2vec）——原理](https://www.jianshu.com/p/1de13edda989)<br>
+
+###8.浅谈语言模型与词向量——实战<br>
+[github:浅谈语言模型与词向量——实战](https://www.jianshu.com/p/4acd3a1992b9)<br>
